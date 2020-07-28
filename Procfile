@@ -1,1 +1,1 @@
-worker:python discbot.py
+web: gunicorn discbot.hello:discbot
