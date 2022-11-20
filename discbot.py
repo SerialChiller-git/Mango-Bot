@@ -102,6 +102,6 @@ async def meme(ctx):
     submission = reddit.subreddit("memes").random()
     await ctx.send(submission.url)
     
-client.run("NzM1MDk1NTQ3NDI1NDU2MTI5.XxbRJQ.iz1oWQybJsT9InUtwqZQ6xjhGak") 
+client.run("NzM1MDk1NTQ3NDI1NDU2MTI5.GkIKRf.0H0wm79tmDxJd6fqyjLz2hsnWYFY9CTJ4Hlkbk") 
 
 
